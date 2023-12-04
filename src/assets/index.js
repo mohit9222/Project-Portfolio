@@ -43,7 +43,7 @@ import coverhunt from './company/coverhunt.png';
 import dcc from './company/dcc.png';
 import moneris from './company/moneris.png';
 import oracle from './company/oracle.png';
-import jr from './company/jr.jpeg';
+import jr from './company/JR.jpeg';
 import LA from './company/LA.png';
 import kelhel from './company/kelhel.png';
 import microverse from './company/microverse.png';
